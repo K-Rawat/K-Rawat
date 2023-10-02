@@ -118,8 +118,9 @@
 
 <table align='center'>
   <tr>
-    <td><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=k-rawat&theme=dark&hide_border=true&" alt="kamalrawat" /></p></td></tr>
-</table>
+    <td><p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=K-Rawat&theme=dark&hide_border=truehow_icons=true&locale=en&layout=compact" alt="kamalrawat" />     
+    </p></td></tr>
 
 <table align='center'>
   <tr>
