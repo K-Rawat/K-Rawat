@@ -45,6 +45,15 @@
         <a href="https://dev.to/its_rawatji">
             <img align="center" src="assets/dev.png" alt="DEV Profile" width="50px">&nbsp;
         </a>
+  <!--<a href="https://qazimaazarshad.github.io/My-Portfolio/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="gfg" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hackerrank" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/15159026/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="stackoverflow" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://fb.com/qazimaaz.arshad.3" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://instagram.com/qazimaazarshad/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" height="30" width="30" /></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/qazimaazarshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="qazimaazarshad" height="30" width="30" /></a>-->
   </p>
 
 <hr>
