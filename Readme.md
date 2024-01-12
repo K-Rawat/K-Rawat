@@ -30,21 +30,21 @@
         <a href="https://www.linkedin.com/in/kamal-rawat-02">
             <img align="center" alt="Kamal @LinkedIN" width="50px" src="assets/linkedin.png" />&nbsp;
         </a>
-        <a href="https://twitter.com/its_rawatji">
+<!--         <a href="https://twitter.com/its_rawatji">
             <img align="center" alt="Kamal @Twitter" width="50px" src="assets/twitter.png" />&nbsp;
-        </a>
-        <a href="https://www.instagram.com/its_rawatji">
+        </a> -->
+<!--         <a href="https://www.instagram.com/its_rawatji">
             <img align="center" alt="Kamal @Instagram" width="50px" src="assets/instagram.png" />&nbsp;
-        </a>
-        <a href="https://www.facebook.com/its_rawatji">
+        </a> -->
+<!--         <a href="https://www.facebook.com/its_rawatji">
             <img align="center" alt="Kamal @facebook" width="50px" src="assets/facebook.png" />&nbsp;
         </a>
         <a href="https://www.youtube.com/channel/UCcrmuu0CnAeJHzosbtZ0KMQ">
             <img align="center" alt="Kamal @Youtube" width="50px" src="assets/youtube.png" />&nbsp;
-        </a>
-        <a href="https://dev.to/its_rawatji">
+        </a> -->
+<!--         <a href="https://dev.to/its_rawatji">
             <img align="center" src="assets/dev.png" alt="DEV Profile" width="50px">&nbsp;
-        </a>
+        </a> -->
   <!--<a href="https://qazimaazarshad.github.io/My-Portfolio/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/monster.svg" alt="portfolio" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/qazi-maaz-arshad" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
   <a href="https://leetcode.com/qazimaazarshad" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="30" /></a>&nbsp;&nbsp;
